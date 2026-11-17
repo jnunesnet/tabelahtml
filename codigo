@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+ <head>
+  <meta charset = "UTF-8">
+  <meta name = " viewport" content= "width=device-width, initial-scale=1">
+  <title> Histórico Escolar</title>
+ </head>
+ <body>
+ <table>
+       <caption><h1>Histórico escolar</h1></caption>
+              <thead>
+                     <tr>
+                     <th>Componente Curricular</th>
+                     <th>CH</th>
+                     <th>Turma</th>
+                     <th>T. Faltas</th>
+                     <th>M Final</th>
+                     <th>N1</th>
+                     <th>F</th>
+                     <th>N2</th>
+                     <th>F</th>
+                     <th>MP</th>
+                     <th>PF</th>
+                     <th>F</th>
+                     <th>MF</th>
+                     <th>Situação</th>
+                     </tr>
+              </thead>
+              <tbody>
+                     <tbody>
+                     <tr>
+                     <td>TECNOLOGIAS WEB</td>
+                     <td>80</td>
+                     <td>32 - 20262.03500.1N</td>
+                     <td>6</td>
+                     <td></td>
+                     <td></td>
+                     <td>6</td>
+                     <td></td>
+                     <td>0</td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td>Cursando</td>
+                     </tr>
+                     <tr>
+                     <td>PROGRAMAÇÃO <br>
+                     ESTRUTURADA E <br>
+                     ESTRUTURA DE DADOS</td>
+                     <td>80</td>
+                     <td>32 - 20262.03500.3N</td>
+                     <td>6</td>
+                     <td></td>
+                     <td></td>
+                     <td>6</td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td>Cursando</td>
+                     </tr>
+                     <tr>
+                     <td>BANCO DE DADOS I</td>
+                     <td>80</td>
+                     <td>32 - 20262.03500.3N</td>
+                     <td>4</td>
+                     <td></td>
+                     <td></td>
+                     <td>4</td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                     <td>Cursando</td>
+                     </tr>
+
+              </tbody>
+ </table>
+</body>
+</html>
